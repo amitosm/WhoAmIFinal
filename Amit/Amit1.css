@@ -1,0 +1,56 @@
+body{
+    background: #8085a7;
+    color : #F8F8FF;	
+    font-family: "Comic Sans MS";
+    text-align: center;
+  }
+
+#myTitle {
+    text-align: center;
+  
+}
+
+.mydiv{
+    text-align: center;
+    
+    
+}
+  #picture {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px double #000000;
+    
+  }
+
+p{
+    text-align: center;
+    
+  }
+
+.logo{
+    float: center;
+    margin-top:-8px;
+    margin-right:20px;
+  }
+#home {
+    color:rgb(0, 0, 0);
+}
+
+.menu ul{
+    text-align: center; 
+    border-style:ridge;
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
+    border-color:rgb(0, 0, 0);
+    display: inline;;
+    font-family:"Courier New";
+  }
+  .menu ul li{
+    display: inline-block;
+    list-style:inline;
+    margin: 0 30px;
+    color:black;
+    cursor:pointer;
+  } 
